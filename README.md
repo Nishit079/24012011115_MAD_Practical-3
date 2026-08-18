@@ -42,47 +42,49 @@ A modern Android application developed using **Kotlin** demonstrating the concep
 
 ## 📱 Application Screenshots (In Execution Order)
 
-### 1. Main Home Screen
-The primary landing activity displaying options for all implicit and explicit intent operations.
-<p align="center">
-  <img src="Screenshots/Home.png" alt="Home Screen" width="320"/>
-</p>
-
-### 2. Web URL Browse Action (Implicit Intent)
-Navigates to the specified web URL (`https://www.google.com`) using the system default web browser.
-<p align="center">
-  <img src="Screenshots/URL.png" alt="URL Action" width="320"/>
-</p>
-
-### 3. Phone Dialer Action (Implicit Intent)
-Opens the system dialer with the pre-filled phone number ready to call.
-<p align="center">
-  <img src="Screenshots/Phone.png" alt="Phone Dialer" width="320"/>
-</p>
-
-### 4. Photos / Gallery Action (Implicit Intent)
-Launches the Google Photos / Gallery application to select or view media files.
-<p align="center">
-  <img src="Screenshots/Photos.png" alt="Gallery Action" width="320"/>
-</p>
-
-### 5. Camera Action (Implicit Intent)
-Opens the default camera application to capture a new photo.
-<p align="center">
-  <img src="Screenshots/Camera.png" alt="Camera Action" width="320"/>
-</p>
-
-### 6. Alarm Action (Implicit Intent)
-Schedules an alarm for 7:30 AM with the title "Wake Up".
-<p align="center">
-  <img src="Screenshots/Alarm.png" alt="Alarm Action" width="320"/>
-</p>
-
-### 7. GUNI Login Activity (Explicit Intent)
-Explicitly opens `LoginActivity` displaying a custom-designed Material Login card UI.
-<p align="center">
-  <img src="Screenshots/Guni Login.png" alt="Login Activity" width="320"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>1. Main Home Screen</h3>
+      <p>Primary landing activity displaying options for implicit & explicit intents.</p>
+      <img src="Screenshots/Home.png" alt="Home Screen" width="240"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>2. Web URL Browse Action</h3>
+      <p>Navigates to <code>https://www.google.com</code> using default browser.</p>
+      <img src="Screenshots/URL.png" alt="URL Action" width="240"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>3. Phone Dialer Action</h3>
+      <p>Opens dialer with pre-filled phone number ready to call.</p>
+      <img src="Screenshots/Phone.png" alt="Phone Dialer" width="240"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <h3>4. Photos / Gallery</h3>
+      <p>Launches Gallery / Photos app to view media files.</p>
+      <img src="Screenshots/Photos.png" alt="Gallery Action" width="240"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>5. Camera Action</h3>
+      <p>Opens camera application to capture a new photo.</p>
+      <img src="Screenshots/Camera.png" alt="Camera Action" width="240"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <h3>6. Alarm Action</h3>
+      <p>Schedules alarm for 7:30 AM with title "Wake Up".</p>
+      <img src="Screenshots/Alarm.png" alt="Alarm Action" width="240"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
+      <h3>7. GUNI Login Activity</h3>
+      <p>Explicitly opens <code>LoginActivity</code> displaying Material Login UI.</p>
+      <img src="Screenshots/Guni Login.png" alt="Login Activity" width="240"/>
+    </td>
+  </tr>
+</table>
 
 
 
