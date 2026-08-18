@@ -92,7 +92,7 @@ A modern Android application developed using **Kotlin** demonstrating the concep
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/<your-github-username>/24012011115_MAD_Practical3.git
+   git clone https://github.com/Nishit079/24012011115_MAD_Practical3.git
    ```
 
 2. **Open in Android Studio:**
